@@ -13,6 +13,7 @@ Note: To demonstrate the functionality in CPUlator, the character are adjusted i
 - About FPGA(DE1-Soc)
 - About CPUlator
 
+
 ## Game Rules
 In this game, the program will be based on FPGA board(DE1-Soc) using ARM processor. The program will read input from KEYs and PS/2 Keyboard to control the movement of the character. The gamer will have to fight(Contact) with other warriors and beat them to grow larger in size. The longer that user survive, the higher score he or she will get.
 
